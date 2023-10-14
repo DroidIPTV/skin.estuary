@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <shortcuts>
     <shortcut>
-        <label2>Common Shortcut</label2>
-        <label>13012</label>
-        <action>Quit()</action>
+        <label2>Beenden</label2>
+        <label>Beenden</label>
+        <action>RunPlugin(plugin.close.kill)</action>
         <icon>special://skin/extras/icons/Power menu/exit.png</icon> 
         <visible>System.ShowExitButton</visible>       
     </shortcut>
